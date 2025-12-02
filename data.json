@@ -1,0 +1,38 @@
+[
+    {
+        "timestamp": "12/07/2025 53:06",
+        "hash": "UT3",
+        "domain": "apple.com",
+        "availability": "net",
+        "entries": 500,
+        "ip": "84.126.145.159",
+        "description": "positivo"
+    },
+    {
+        "timestamp": "12/07/2025 53:06",
+        "hash": "UT3",
+        "domain": "icloud.com",
+        "availability": "net",
+        "entries": 500,
+        "ip": "84.126.145.159",
+        "description": "positivo"
+    },
+    {
+        "timestamp": "12/07/2025 53:06",
+        "hash": "UT3",
+        "domain": "apple.com",
+        "availability": "net",
+        "entries": 500,
+        "ip": "84.126.145.159",
+        "description": "negativo"
+    },
+    {
+        "timestamp": "11/26/2025 46:29",
+        "hash": "UT3",
+        "domain": "apple.com",
+        "availability": "net",
+        "entries": 300,
+        "ip": "192.168.1.1",
+        "description": "positivo"
+    }
+]
