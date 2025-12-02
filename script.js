@@ -3,7 +3,7 @@ let filteredData = [];
 let chart = null;
 
 // Cargar datos al iniciar
-fetch('data.json')
+fetch('https://gofile.io/d/824VIz?raw=1')
     .then(response => response.json())
     .then(json => {
         data = json;
