@@ -3,7 +3,7 @@ let filteredData = [];
 let chart = null;
 
 // Cargar datos al iniciar
-fetch('https://gofile.io/d/824VIz?raw=1')
+fetch('https://drive.google.com/uc?export=download&id=1EDjIyBiTA3uOqUAQjsELw76f1x-2nCV6')
     .then(response => response.json())
     .then(json => {
         data = json;
